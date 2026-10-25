@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Halo,%20gue%20NAMA_LU&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Penikmat%20Kopi&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Halo,%20gue%20Asyraf Pramudya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Penikmat%20Kopi&descAlignY=60&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Suka+ngoding+sampai+lupa+tidur;Bug+itu+fitur+yang+belum+dijelaskan;Lagi+belajar+hal+baru+setiap+hari" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/USERNAME_GITHUB?label=Followers&style=flat-square&logo=github" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=asyrafprmdya&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/asyrafprmdya?label=Followers&style=flat-square&logo=github" alt="Followers" />
 
 </div>
 
@@ -52,9 +52,9 @@
 
 | Project | Deskripsi | Tech |
 | --- | --- | --- |
-| [Project 1](https://github.com/asyrafprmdya/algolearn) | Deskripsi singkat project pertama | `Laravel` |
-| [Project 2](https://github.com/asyrafprmdya/mindcare) | Deskripsi singkat project kedua | `Laravel` `Automation n8n` |
-| [Project 3](https://github.com/asyrafprmdya/runmetrics) | Deskripsi singkat project ketiga | `React` `Tailwind` |
+| [AlgoLearn](https://github.com/asyrafprmdya/algolearn) | Website belajar interaktif ala duolingo | `Laravel` |
+| [MindCare](https://github.com/asyrafprmdya/mindcare) | Chatbot telekonseling kesehatan mental | `Laravel` `Automation n8n` |
+| [Runmetrics](https://github.com/asyrafprmdya/runmetrics) | Pokoknya buat lari | `React` `Tailwind` |
 
 ---
 
